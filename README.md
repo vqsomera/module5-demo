@@ -4,3 +4,5 @@ This is my first git repository
 Author: Vicky Somera
 <br>
 Learnign Git and GitHub
+<br>
+Changed file directly in GitHub
