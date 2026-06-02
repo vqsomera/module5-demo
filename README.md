@@ -6,3 +6,5 @@ Author: Vicky Somera
 Learnign Git and GitHub
 <br>
 Changed file directly in GitHub
+<br>
+Changed in git, to see M status
